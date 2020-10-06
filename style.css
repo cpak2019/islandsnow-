@@ -1,10 +1,14 @@
-.ui.borderless.menu {
+.top.ui.borderless.menu {
   background-color: #f7f7f7;
   box-shadow: none;
   border: none;
   margin-top: 0px;
 }
 
+.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
 p{
   color: darkblue;
 }
