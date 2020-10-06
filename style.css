@@ -3,6 +3,7 @@
   box-shadow: none;
   border: none;
   margin-top: 0px;
+  text: red;
 }
 
 .ui.borderless.menu {
@@ -10,5 +11,17 @@
   border: none;
 }
 p{
-  color: darkblue;
+  color: red;
+}
+
+.ui.vertical.text.menu{
+  color: black;
+}
+.active.item{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.ui.three.column.grid.container{
+  margin-top: 20px;
 }
